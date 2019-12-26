@@ -1,3 +1,3 @@
 # Required
-python
-pymysql
+[x] python
+[x] pymysql
