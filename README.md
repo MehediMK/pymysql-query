@@ -1,3 +1,3 @@
 # Required
-[x] python
-[x] pymysql
+- [x] python
+- [x] pymysql
